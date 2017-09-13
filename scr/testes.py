@@ -1,6 +1,6 @@
 Import jogovelha
 import sys
-erroInicializar = False
+erroInicializar = ?
 jogo = jogovelha.inicializar()
 if len(jogo) != 3:
 erroInicializar = True
